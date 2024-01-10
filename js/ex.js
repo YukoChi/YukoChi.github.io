@@ -47,7 +47,7 @@ ScrollReveal({
 
 
   // ======== animasi experience ========
-ScrollReveal().reveal(".experience h2,", { origin: "top" });
+ScrollReveal().reveal(".resume h2,", { origin: "top" });
 
 ScrollReveal().reveal(".home-content, .heading", { origin: "top" });
 ScrollReveal().reveal(".home-img img, .project-container, .portfolio-box, .testimonial-wrapper, .contact form", { origin: "bottom" });
